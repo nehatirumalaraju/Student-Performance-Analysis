@@ -35,10 +35,11 @@ The goal: Help educators and institutions make data-driven decisions to improve 
 
 📁 Project Structure
 Student-Performance-Analysis/
+
 │
-├── http://Untitled5.ipynb                # Main analysis notebook - EDA, Visualizations, Insights
-├── http://StudentPerformanceFactors.csv  # Dataset with 32+ student attributes
-├── Student_Reports/               # Folder for automated generated Excel reports
+├── http://Untitled5.ipynb               
+├── http://StudentPerformanceFactors.csv  
+├── Student_Reports/               
 │   └── Automated_Student_Report.xlsx
 ├── .gitignore
 └── http://README.md
