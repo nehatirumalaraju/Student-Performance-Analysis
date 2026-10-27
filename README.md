@@ -1,6 +1,8 @@
 
 📊 Student Performance Analysis
 
+Live Demo: [Open Link] (https://student-performance-analysis-hmsh2xtoapembmeahzqf7x.streamlit.app/)
+
 **Automated Student Performance Analysis using Python, Pandas, and Streamlit**  
 Generates Excel reports and visualizes key factors affecting exam scores.
 
